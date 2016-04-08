@@ -35,17 +35,35 @@ level 4 inside-get password for level 5
 
 ![capture9](https://cloud.githubusercontent.com/assets/13763857/14379374/5db4114c-fd97-11e5-8a93-fdc157cec0c8.PNG)
 
-level 5
+level 5 inside-get password to level 6
+
+![level5](https://cloud.githubusercontent.com/assets/13763857/14380970/5fdf744e-fda0-11e5-917d-ee95e8b0b158.PNG)
+
+level 6 inside-get password to level 7
+
+![level5-1](https://cloud.githubusercontent.com/assets/13763857/14381199/1b0dde12-fda2-11e5-921f-da75d5d1ae2a.PNG)
+
+level 7 inside-get password to level 8
+
+![level7](https://cloud.githubusercontent.com/assets/13763857/14381065/23d14d5a-fda1-11e5-8422-57d4237b34b1.PNG)
 
 level 8-get password to level 9
 
+![level8](https://cloud.githubusercontent.com/assets/13763857/14381106/5ecc473e-fda1-11e5-84ba-7b7aa1b215af.PNG)
+
 level 9-get password to level 10
 
+![level 9](https://cloud.githubusercontent.com/assets/13763857/14381129/7d7d6ed8-fda1-11e5-97be-2e12a240a15d.PNG)
 
 level 10 get password for level 11
 
+![level10](https://cloud.githubusercontent.com/assets/13763857/14381152/b7f5a0a8-fda1-11e5-8212-31a63198c9ad.PNG)
 
 level 11 get password for level 12 and enter pass word to login to the system as level 12
 
+![level11](https://cloud.githubusercontent.com/assets/13763857/14381175/e9a0f35a-fda1-11e5-9128-3d6d26705099.PNG)
+
 level 12-Get pass word of level 13-can't get password-error is comming and stuck the cygwin
+
+![level12](https://cloud.githubusercontent.com/assets/13763857/14381189/02638f56-fda2-11e5-8ad9-2dc53712b2c7.PNG)
 
