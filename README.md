@@ -10,10 +10,11 @@ level login-logout the system
 ![capture3](https://cloud.githubusercontent.com/assets/13763857/14379290/0ecbbfee-fd97-11e5-8521-27d00018aec7.PNG)
 
 ![capture4](https://cloud.githubusercontent.com/assets/13763857/14379370/5dafd7ee-fd97-11e5-95ab-91bc0e3e251a.PNG)
-level 1 -get password to the level 2
+level 1 -get password to the level 2 and login to level2
 ![capture5](https://cloud.githubusercontent.com/assets/13763857/14379371/5db162ee-fd97-11e5-9735-bd101c6759b6.PNG)
 
 ![capture6](https://cloud.githubusercontent.com/assets/13763857/14379372/5db234b2-fd97-11e5-9d00-04e6cb75cd9f.PNG)
+level 2 inside -get password to level 3
 ![capture7](https://cloud.githubusercontent.com/assets/13763857/14379375/5db42dda-fd97-11e5-893b-f48446dc22ad.PNG)
 ![capture8](https://cloud.githubusercontent.com/assets/13763857/14379373/5db3dc22-fd97-11e5-915b-d36d230d1a98.PNG)
 ![capture9](https://cloud.githubusercontent.com/assets/13763857/14379374/5db4114c-fd97-11e5-8a93-fdc157cec0c8.PNG)
