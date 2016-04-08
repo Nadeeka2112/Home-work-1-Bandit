@@ -1,4 +1,10 @@
 # Home-work-1-Bandit- enter to the game
+Issues come up to me when playing the game.
+                  *SSH is not work in WIFI-because SSH is affect to internal servers.so that wifi is not allowed to SSH.
+                  *found the logout command when bandit0@bandit are show in levels and also I found in that case ls command only give                    the direcrty as readme.so that I found I want to logout level by level and new password is enter to the next level
+                  *Cygwin is stuck inside the level 12 and I'cant find the next level password
+                  *In level 6 to 7 i didn't saw the password and reenter to the level 6.
+      *****Starting the game******************            
 ![capture](https://cloud.githubusercontent.com/assets/13763857/14378928/478afa72-fd95-11e5-92e9-790bd71a783c.PNG)
 
 level 0 entering the password to login to level 0
